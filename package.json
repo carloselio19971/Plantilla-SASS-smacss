@@ -1,0 +1,17 @@
+{
+  "name": "PlantillaSASS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "gulp"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-avif": "^1.0.0",
+    "gulp-imagemin": "^9.0.0",
+    "gulp-sass": "^5.1.0",
+    "gulp-webp": "^5.0.0",
+    "sass": "^1.50.0"
+  }
+}
